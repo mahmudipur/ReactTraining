@@ -1,0 +1,10 @@
+.expenses-filter__control {
+    display: flex;
+    justify-content: space-between;
+}
+
+.expenses-filter__control label {
+    color: #fff;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
